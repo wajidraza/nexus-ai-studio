@@ -1,0 +1,7 @@
+{
+  "name": "nexus-ai-studio",
+  "version": "1.0.0",
+  "description": "Multi-model generative AI workbench allowing developers to run side-by-side prompt comparisons across GPT-4, Claude 3 Opus, and Mistral.",
+  "author": "Wajid Raza <wajidrazapk@outlook.com>",
+  "license": "MIT"
+}
